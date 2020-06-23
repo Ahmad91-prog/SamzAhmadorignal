@@ -1,0 +1,33 @@
+body{
+  font-family: 'Gayathri', sans-serif;
+  color: white;
+}
+#title{
+  background-color: #204051;
+}
+
+#testimonials{
+  background-color: #204051;
+}
+p{
+  font-family: 'Gayathri', sans-serif;
+}
+.Main-Data{
+  text-align: center;
+  margin-top: 15%;
+}
+.row{
+  padding:7% 15%;
+}
+.img-col{
+margin-top: 10px;
+margin-left: 50px;
+margin-bottom: 10px;
+color:#87dfd6;
+}
+.img-testimonials{
+  padding:6% 15%;
+  width:50%;
+  height:150%;
+
+}
